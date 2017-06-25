@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneDetect</string>
+    <string name="record_call_starting">Record Call Starting</string>
+</resources>
